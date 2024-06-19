@@ -10,18 +10,18 @@ notComplete-> :x:
 ❗
 -->
 ## Knowledge
-| List                 | Status                                           |
-|---------------------------|------------------------------------------------|
-| Pytorch                    | :star: |
-| YOLO                         | :hourglass: | 
-| Docker                         | :star: | 
-| Algorithms and Data Structures                         | :star: | 
-| Pandas                   | :x: |
-| OpenCV                    | :x: | 
-| R                         | :x: | 
+| List                 | Status                                           | Go to 
+|---------------------------|------------------------------------------------|----|
+| Pytorch                    | :star: | [Pytorch](#pytorch "Goto Pytorch")
+| YOLO                         | :hourglass: | |
+| Docker                         | :star: | |
+| Algorithms and Data Structures                         | :star: | |
+| Pandas                   | :x: | |
+| OpenCV                    | :x: | |
+| R                         | :x: | |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
-### Pytorch 
+### Pytorch ###
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|----------|--------|
 | AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English | :x: |
