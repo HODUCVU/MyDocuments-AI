@@ -30,7 +30,7 @@
 * [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
 ### Docker
 * [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
-
+* [ ] [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)
 
 ### Else
 * [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
