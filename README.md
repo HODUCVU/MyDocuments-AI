@@ -32,7 +32,7 @@
 ### Docker
 * [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
 * [ ] [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)
-
+* [ ] [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s)
 ### Else
 * [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
 * [ ] [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s)
