@@ -1,38 +1,101 @@
 # Route To Get Job AI
 ##  English (of course): Conversation, Interview, TOEIC 
 * [ ] [TOEIC Testing set](https://drive.google.com/drive/folders/1WF1GopSbIyuqiaKFuHfrZnCqY-ZlEzJL?usp=sharing)
+<!-- icon
+start->  :hourglass:
+star->  :star:
+complete-> :white_check_mark:
+notComplete-> :x: 
+:arrows_counterclockwise:
+❗
+-->
+## Knowledge
+| List                 | Status                                           |
+|---------------------------|------------------------------------------------|
+| Pytorch                    | :star: |
+| YOLO                         | :hourglass: | 
+| Docker                         | :star: | 
+| Algorithms and Data Structures                         | :star: | 
+| Pandas                   | :x: |
+| OpenCV                    | :x: | 
+| R                         | :x: | 
 
-##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI
+<!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch 
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|----------|--------|
+| AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English | :x: |
+| FreeCodeCamp | 2 hours | [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&list=LL&index=78&t=2045s) | English | :x: |
+| FreeCodeCamp | 25 hours | [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English | :x: |
+<!--
 * [ ] [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s)
 * [ ] [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&list=LL&index=78&t=2045s)
-* [ ] [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)
+* [ ] [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s) 
+-->
 
-### Pandas 
-* [ ] [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)
-* [ ] [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s)
+### YOLO
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|-----------|-------|
+| Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | ⏳ |
+| Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | :x: |
+<!--
+* [ ] ⏳ [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)
+* [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
+-->
 
+### Docker
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|---------|---------|
+| DevOps Directive | 4:44 hours | [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s) | English | :x: |
+| Mì AI | 1 hour | [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s) | Vietnamese |:x: |
+| FullstacKAGE | 16 min | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x: |
+<!--
+* [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
+* [ ] [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)
+* [ ] [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s)
+-->
 ### Algorithms and Data Structures in Python
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|-----|---------|
+| FreeCodeCamp | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | :x: |
+| FreeCodeCamp | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
+| FreeCodeCamp | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
+<!--
 * [ ] [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=79&pp=gAQBiAQB)
 * [ ] [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63)
 * [ ] [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s)
+-->
+### Pandas 
+| Channel |  Description               | Link                                           | Language | Status 
+|----------|-----------------|------------------------------------------------|------------|------|
+| FreeCodeCamp | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
+| FreeCodeCamp | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
+<!--
+* [ ] [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)
+* [ ] [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s)
+-->
 
 ### OpenCV
-* [ ] [OpenCV tutorial for beginners | FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)
+| Channel |  Description               | Link                                           | Language | Status 
+|----------|-----------------|------------------------------------------------|------------|------|
+| Computer vision engineer | 3:10 hours | [OpenCV tutorial for beginners \| FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)| English | :x: |
 
+<!--
+* [ ] [OpenCV tutorial for beginners | FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)
+-->
 ### R
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|-----|---------|
+| FreeCodeCamp | 2:10 hours | [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=LL&index=25) |English | :x: |
+| Great Learning | 2:20 hours | [R Language For Beginners In Hindi \| R Tutorial \| Learn R Programming In 2 Hours \| Great Learning](https://www.youtube.com/watch?v=SBhpLnPuNlI&list=LL&index=24&t=534s) | English | :x: |
+| Rajendra Choure | 30 min | [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB) | English | :x: |
+| R Programming 101 | 30 min | [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s) | English | :x: |
+<!--
 * [ ] [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=LL&index=25)
 * [ ] [R Language For Beginners In Hindi | R Tutorial | Learn R Programming In 2 Hours | Great Learning](https://www.youtube.com/watch?v=SBhpLnPuNlI&list=LL&index=23&t=534s&pp=gAQBiAQB)
 * [ ] [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB)
 * [ ] [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s)
-
-### YOLO
-* [ ] ⏳ [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)
-* [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
-### Docker
-* [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
-* [ ] [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)
-* [ ] [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s)
+-->
 ### Else
 * [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
 * [ ] [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s)
