@@ -10,15 +10,15 @@ notComplete-> :x:
 ❗
 -->
 ## Knowledge
-| List                 | Status                                           | Go to 
-|---------------------------|------------------------------------------------|----|
-| Pytorch                    | :star: | [Pytorch](#pytorch "Goto Pytorch")
-| YOLO                         | :hourglass: | |
-| Docker                         | :star: | |
-| Algorithms and Data Structures                         | :star: | |
-| Pandas                   | :x: | |
-| OpenCV                    | :x: | |
-| R                         | :x: | |
+| List                 | Status                                           
+|---------------------------|------------------------------------------------|
+| [Pytorch](#pytorch "Goto Pytorch")                    | :star: | 
+| [YOLO](#yolo "Goto YOLO")                         | :hourglass: |
+| [Docker](#docker "Goto Docker")                       | :star: | |
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")                      | :star: | |
+| [Pandas](#pandas "Goto Pandas")                 | :x: | |
+| [OpenCV](#opencv "Goto OpenCV")                   | :x: | |
+| [R](#r "Goto R")                         | :x: | |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
