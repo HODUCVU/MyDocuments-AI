@@ -28,6 +28,9 @@
 ### YOLO
 * [ ] ⏳ [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)
 * [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
+### Docker
+* [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
+
 
 ### Else
 * [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
