@@ -34,10 +34,10 @@ notComplete-> :x:
 -->
 
 ### YOLO
-| Channel |  Description               | Link                                 | Language          | Status
-|----------|-----------------|------------------------------------------------|-----------|-------|
-| Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | :white_check_mark: |
-| Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | :x: |
+| Channel |  Description               | Link                                 | Language          | Project |Status
+|----------|-----------------|------------------------------------------------|-----------|-------|-----
+| Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) |:white_check_mark: |
+| Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | | :x: |
 <!--
 * [ ] ⏳ [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)
 * [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
