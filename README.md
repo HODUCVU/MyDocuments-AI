@@ -1,6 +1,15 @@
 # Route To Get Job AI
+## Get CV
+| Tool | Form 
+|----|-----
+| Latex | [My CV form](https://www.overleaf.com/read/snnwyymxtzhr#c7601b) |
+
 ##  English (of course): Conversation, Interview, TOEIC 
-* [ ] [TOEIC Testing set](https://drive.google.com/drive/folders/1WF1GopSbIyuqiaKFuHfrZnCqY-ZlEzJL?usp=sharing)
+| Year | Link |  Category  |Status
+|---|---|---|---
+| 2023 | [TOEIC Testing set](https://drive.google.com/drive/folders/1WF1GopSbIyuqiaKFuHfrZnCqY-ZlEzJL?usp=sharing) | Listening and Reading | :hourglass: |
+| 2022 | [ABC TOEIC Listening Comprehension]() | Listening Book| :white_check_mark: |
+| 2022 | [ABC TOEIC Reading Comprehension]() | Reading Book| :hourglass: |
 <!-- icon
 start->  :hourglass:
 star->  :star:
