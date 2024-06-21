@@ -23,12 +23,12 @@ notComplete-> :x:
 |---------------------------|------------------------------------------------|
 | [Pytorch](#pytorch "Goto Pytorch")                    | :hourglass: | 
 | [YOLO](#yolo "Goto YOLO")                         | :hourglass: |
-| [Docker](#docker "Goto Docker")                       | :star: | |
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")                      | :star: | |
-| [Pandas](#pandas "Goto Pandas")                 | :x: | |
-| [OpenCV](#opencv "Goto OpenCV")                   | :x: | |
-| [R](#r "Goto R")                         | :x: | |
-
+| [Docker](#docker "Goto Docker")                       | :star: | 
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | :star: | 
+| [Pandas](#pandas "Goto Pandas")                 | :x: | 
+| [OpenCV](#opencv "Goto OpenCV")                   | :x: | 
+| [R](#r "Goto R")                         | :x: | 
+| [Tensorflor 2.0 Keras](#tensorflorkeras "Goto Tensorflor 2.0 Keras") | :x: |
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          | What I learned |  Status
@@ -101,12 +101,12 @@ notComplete-> :x:
 | Great Learning | 2:20 hours | [R Language For Beginners In Hindi \| R Tutorial \| Learn R Programming In 2 Hours \| Great Learning](https://www.youtube.com/watch?v=SBhpLnPuNlI&list=LL&index=24&t=534s) | English | :x: |
 | Rajendra Choure | 30 min | [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB) | English | :x: |
 | R Programming 101 | 30 min | [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s) | English | :x: |
-<!--
-* [ ] [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=LL&index=25)
-* [ ] [R Language For Beginners In Hindi | R Tutorial | Learn R Programming In 2 Hours | Great Learning](https://www.youtube.com/watch?v=SBhpLnPuNlI&list=LL&index=23&t=534s&pp=gAQBiAQB)
-* [ ] [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB)
-* [ ] [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s)
--->
+
+# Tensorflor 2.0 Keras
+| Channel | Description | Link | Language | Status
+|-|-|-|-|-
+| codebasics | Serial Lession | [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | English | :x: |
+
 ### Else
 * [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
 * [ ] [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s)
