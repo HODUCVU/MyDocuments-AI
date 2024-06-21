@@ -28,7 +28,7 @@ notComplete-> :x:
 | [Pandas](#pandas "Goto Pandas")                 | :x: | 
 | [OpenCV](#opencv "Goto OpenCV")                   | :x: | 
 | [R](#r "Goto R")                         | :x: | 
-| [Tensorflor 2.0 Keras](#tensorflorkeras "Goto Tensorflor 2.0 Keras") | :x: |
+| [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") | :x: |
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          | What I learned |  Status
@@ -102,7 +102,7 @@ notComplete-> :x:
 | Rajendra Choure | 30 min | [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB) | English | :x: |
 | R Programming 101 | 30 min | [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s) | English | :x: |
 
-# Tensorflor 2.0 Keras
+### Tensorflor 2.0 Keras
 | Channel | Description | Link | Language | Status
 |-|-|-|-|-
 | codebasics | Serial Lession | [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | English | :x: |
