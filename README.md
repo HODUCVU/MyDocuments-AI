@@ -22,11 +22,11 @@ notComplete-> :x:
 | List                 | Status                                           
 |---------------------------|------------------------------------------------|
 | [Pytorch](#pytorch "Goto Pytorch")                    | :hourglass: | 
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")                         | :hourglass: |
-| [YOLO](#yolo "Goto YOLO")                         | :hourglass: |
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")                         | :star: |
 | [Docker](#docker "Goto Docker")                       | :star: | 
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | :star: | 
 | [Pandas](#pandas "Goto Pandas")                 | :x: | 
+| [YOLO](#yolo "Goto YOLO")                         | :x: |
 | [OpenCV](#opencv "Goto OpenCV")                   | :x: | 
 | [R](#r "Goto R")                         | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") | :x: |
@@ -50,47 +50,31 @@ notComplete-> :x:
 | FreeCodeCamp | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
 | FreeCodeCamp | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
-### YOLO
-| Channel |  Description               | Link                                 | Language          | Project |Status
-|----------|-----------------|------------------------------------------------|-----------|-------|-----
-| Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) |:white_check_mark: |
-| Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | | :x: |
-<!--
-* [ ] ⏳ [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s)
-* [ ] [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s)
--->
-
 ### Docker
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|---------|---------|
 | DevOps Directive | 4:44 hours | [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s) | English | :x: |
 | Mì AI | 1 hour | [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s) | Vietnamese |:x: |
 | FullstacKAGE | 16 min | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x: |
-<!--
-* [ ] [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s)
-* [ ] [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s)
-* [ ] [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s)
--->
+
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
 | FreeCodeCamp | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | :x: |
 | FreeCodeCamp | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
 | FreeCodeCamp | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
-<!--
-* [ ] [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=79&pp=gAQBiAQB)
-* [ ] [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63)
-* [ ] [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s)
--->
+
 ### Pandas 
 | Channel |  Description               | Link                                           | Language | Status 
 |----------|-----------------|------------------------------------------------|------------|------|
 | FreeCodeCamp | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
 | FreeCodeCamp | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
-<!--
-* [ ] [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)
-* [ ] [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s)
--->
+
+### YOLO
+| Channel |  Description               | Link                                 | Language          | Project |Status
+|----------|-----------------|------------------------------------------------|-----------|-------|-----
+| Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) |:white_check_mark: |
+| Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | | :x: |
 
 ### OpenCV
 | Channel |  Description               | Link                                           | Language | Status 
