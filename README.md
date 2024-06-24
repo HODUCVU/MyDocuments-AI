@@ -22,6 +22,7 @@ notComplete-> :x:
 | List                 | Status                                           
 |---------------------------|------------------------------------------------|
 | [Pytorch](#pytorch "Goto Pytorch")                    | :hourglass: | 
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")                         | :hourglass: |
 | [YOLO](#yolo "Goto YOLO")                         | :hourglass: |
 | [Docker](#docker "Goto Docker")                       | :star: | 
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | :star: | 
@@ -43,6 +44,11 @@ notComplete-> :x:
 * [ ] [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&list=LL&index=78&t=2045s)
 * [ ] [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s) 
 -->
+### Sciki-learn
+| Channel |  Description               | Link                                 | Language           |  Status
+|----------|-----------------|------------------------------------------------|-----------|-----------
+| FreeCodeCamp | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
+| FreeCodeCamp | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
 ### YOLO
 | Channel |  Description               | Link                                 | Language          | Project |Status
