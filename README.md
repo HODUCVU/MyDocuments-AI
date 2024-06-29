@@ -21,17 +21,17 @@ notComplete-> :x:
 ❗
 -->
 ## Knowledge
-| List                 | Status                                           
-|---------------------------|------------------------------------------------|
-| [Pytorch](#pytorch "Goto Pytorch")                    | :hourglass: | 
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")                         | :star: |
-| [Docker](#docker "Goto Docker")                       | :star: | 
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | :star: | 
-| [Pandas](#pandas "Goto Pandas")                 | :x: | 
-| [YOLO](#yolo "Goto YOLO")                         | :x: |
-| [OpenCV](#opencv "Goto OpenCV")                   | :x: | 
-| [R](#r "Goto R")                         | :x: | 
-| [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") | :x: |
+| List                 | Site Notebook | Status                                           
+|----------------------|---------------|-------|
+| [Pytorch](#pytorch "Goto Pytorch")  | [My Pytorch Notebook](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | :hourglass: | 
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | :star: |
+| [Docker](#docker "Goto Docker")     |   | :star: | 
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  |   | :star: | 
+| [Pandas](#pandas "Goto Pandas")     |   | :x: | 
+| [YOLO](#yolo "Goto YOLO")           |   | :x: |
+| [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
+| [R](#r "Goto R")                    |   | :x: | 
+| [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          | What I learned |  Status
