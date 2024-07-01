@@ -1,10 +1,5 @@
 # AI Letures
 <!--
-## Get CV
-| Tool | Form 
-|----|-----
-| Latex | [My CV form](https://www.overleaf.com/read/snnwyymxtzhr#c7601b) |
-
 ##  English (of course): Conversation, Interview, TOEIC 
 | Year | Link |  Category  |Status
 |---|---|---|---
@@ -21,12 +16,12 @@ notComplete-> :x:
 ❗
 -->
 ## Knowledge
-| List                 | Site Notebook | Status                                           
+| List                 | My Site Notebook | Status                                           
 |----------------------|---------------|-------|
-| [Pytorch](#pytorch "Goto Pytorch")  | [My Pytorch Notebook](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | :hourglass: | 
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | :star: |
-| [Docker](#docker "Goto Docker")     |   | :star: | 
+| [Pytorch](#pytorch "Goto Pytorch")  | [Pytorch Notebook](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | ⏳ | 
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  |   | :star: | 
+| [Docker](#docker "Goto Docker")     |   | :star: | 
 | [Pandas](#pandas "Goto Pandas")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
 | [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
@@ -36,8 +31,8 @@ notComplete-> :x:
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          |  Status
 |---------|----------------------------|--------------------------------------|-------------------|------------
-| AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
 | FreeCodeCamp | 25 hours | [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
+| AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
 | AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
 | Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
 <!--
