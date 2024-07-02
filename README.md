@@ -19,10 +19,10 @@ notComplete-> :x:
 | Knowledge                 | My Notion Site | Status                                           
 |----------------------|---------------|-------|
 | [PyTorch](#pytorch "Goto Pytorch")  | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | ⏳ | 
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | ⏳ | 
 | [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | :star: | 
-| [Docker](#docker "Goto Docker")     |   | :star: | 
-| [Pandas](#pandas "Goto Pandas")     |   | :x: | 
+| [Pandas](#pandas "Goto Pandas")     |   | :star: | 
+| [Docker](#docker "Goto Docker")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
 | [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
 | [R](#r "Goto R")                    |   | :x: | 
@@ -35,16 +35,26 @@ notComplete-> :x:
 | AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
 | AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
 | Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
-<!--
-* [ ] [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s)
-* [ ] [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&list=LL&index=78&t=2045s)
-* [ ] [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s) 
--->
+
+### Algorithms and Data Structures in Python
+| Channel |  Description               | Link                                 | Language          | Status
+|----------|-----------------|------------------------------------------------|-----|---------|
+| FreeCodeCamp | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | ⏳ |
+| FreeCodeCamp | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
+| FreeCodeCamp | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
+
+
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
 |----------|-----------------|------------------------------------------------|-----------|-----------
 | FreeCodeCamp | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
 | FreeCodeCamp | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
+
+### Pandas 
+| Channel |  Description               | Link                                           | Language | Status 
+|----------|-----------------|------------------------------------------------|------------|------|
+| FreeCodeCamp | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
+| FreeCodeCamp | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
 
 ### Docker
 | Channel |  Description               | Link                                 | Language          | Status
@@ -52,19 +62,6 @@ notComplete-> :x:
 | DevOps Directive | 4:44 hours | [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s) | English | :x: |
 | Mì AI | 1 hour | [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s) | Vietnamese |:x: |
 | FullstacKAGE | 16 min | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x: |
-
-### Algorithms and Data Structures in Python
-| Channel |  Description               | Link                                 | Language          | Status
-|----------|-----------------|------------------------------------------------|-----|---------|
-| FreeCodeCamp | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | :x: |
-| FreeCodeCamp | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
-| FreeCodeCamp | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
-
-### Pandas 
-| Channel |  Description               | Link                                           | Language | Status 
-|----------|-----------------|------------------------------------------------|------------|------|
-| FreeCodeCamp | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
-| FreeCodeCamp | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
 
 ### YOLO
 | Channel |  Description               | Link                                 | Language          | Project |Status
