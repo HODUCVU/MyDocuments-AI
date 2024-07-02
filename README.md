@@ -16,11 +16,11 @@ notComplete-> :x:
 ❗
 -->
 ## Table of Contents
-| Knowledge                 | My Site Notebook | Status                                           
+| Knowledge                 | My Notion Site | Status                                           
 |----------------------|---------------|-------|
-| [Pytorch](#pytorch "Goto Pytorch")  | [Pytorch Notebook](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | ⏳ | 
+| [PyTorch](#pytorch "Goto Pytorch")  | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | ⏳ | 
 | [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  |   | :star: | 
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | :star: | 
 | [Docker](#docker "Goto Docker")     |   | :star: | 
 | [Pandas](#pandas "Goto Pandas")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
