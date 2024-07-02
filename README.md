@@ -31,7 +31,7 @@ notComplete-> :x:
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          |  Status
 |---------|----------------------------|--------------------------------------|-------------------|------------
-| FreeCodeCamp | 25 hours | [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
+| FreeCodeCamp | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
 | AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
 | AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
 | Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
