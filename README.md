@@ -36,6 +36,7 @@ notComplete-> :x:
 | AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
 | Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
 | Pytorch.org | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) | English | 🫰 |
+| Pytorch.org | PyTorch API | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#) | English | 🫰 |
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
