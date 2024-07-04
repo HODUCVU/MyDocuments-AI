@@ -96,7 +96,6 @@ notComplete-> :x:
 |-|-|-|-
 | FreeCodeCamp.org | How to using vector database | [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6) | English |
 | FreeCodeCamp.org | Advance for Python (in 5:55:55 hours) | [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s) | English
-| FreeCodeCamp.org | Advance for Python (in 5:55:55 hours) | [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s) | English
 | Dave Ebbelaar | Set up Environment (just easy) |  [How to Set up VS Code for Data Science & AI](https://www.youtube.com/watch?v=zulGMYg0v6U&list=LL&index=15&t=35s&pp=gAQBiAQB) | English |
 | Việt Nguyễn AI | I think this video is good to begin your journey | [Full lộ trình để trở thành 1 AI engineer](https://www.youtube.com/watch?v=BQUkb4oMZ14&list=LL&index=34&t=241s) | Vietnamese |
 | AICodeKing | Know more about tool for AI | [LightningAI: STOP PAYING for Google's Colab with this NEW & FREE Alternative (Works with VSCode)](https://www.youtube.com/watch?v=uSOclWUu4xY&list=LL&index=66&t=230s) | English |
