@@ -31,7 +31,7 @@ notComplete-> :x:
 ### Pytorch ###
 | Channel |  Description               | Link                                 | Language          |  Status
 |---------|----------------------------|--------------------------------------|-------------------|------------
-| FreeCodeCamp | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
+| FreeCodeCamp.org | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
 | AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
 | AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
 | Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
@@ -40,22 +40,22 @@ notComplete-> :x:
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
-| FreeCodeCamp | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | ⏳ |
-| FreeCodeCamp | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
-| FreeCodeCamp | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
+| FreeCodeCamp.org | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | ⏳ |
+| FreeCodeCamp.org | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
+| FreeCodeCamp.org | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
 
 
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
 |----------|-----------------|------------------------------------------------|-----------|-----------
-| FreeCodeCamp | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
-| FreeCodeCamp | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
+| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
+| FreeCodeCamp.org | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
 ### Pandas 
 | Channel |  Description               | Link                                           | Language | Status 
 |----------|-----------------|------------------------------------------------|------------|------|
-| FreeCodeCamp | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
-| FreeCodeCamp | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
+| FreeCodeCamp.org | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
+| FreeCodeCamp.org | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
 
 ### Docker
 | Channel |  Description               | Link                                 | Language          | Status
@@ -81,7 +81,7 @@ notComplete-> :x:
 ### R
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
-| FreeCodeCamp | 2:10 hours | [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=LL&index=25) |English | :x: |
+| FreeCodeCamp.org | 2:10 hours | [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=LL&index=25) |English | :x: |
 | Great Learning | 2:20 hours | [R Language For Beginners In Hindi \| R Tutorial \| Learn R Programming In 2 Hours \| Great Learning](https://www.youtube.com/watch?v=SBhpLnPuNlI&list=LL&index=24&t=534s) | English | :x: |
 | Rajendra Choure | 30 min | [Learn to plot Data Using R and GGplot2: Import, manipulate , graph and customize the plot, graph](https://www.youtube.com/watch?v=Rp6Xwy4BfxI&list=LL&index=10&t=3s&pp=gAQBiAQB) | English | :x: |
 | R Programming 101 | 30 min | [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI&list=LL&index=18&t=30s) | English | :x: |
@@ -91,18 +91,21 @@ notComplete-> :x:
 |-|-|-|-|-
 | codebasics | Serial Lession | [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | English | :x: |
 
-### Else
-* [ ] [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6)
-* [ ] [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s)
-* [ ] [How to Set up VS Code for Data Science & AI](https://www.youtube.com/watch?v=zulGMYg0v6U&list=LL&index=15&t=35s&pp=gAQBiAQB)
-* [ ] [Full lộ trình để trở thành 1 AI engineer](https://www.youtube.com/watch?v=BQUkb4oMZ14&list=LL&index=34&t=241s)
-* [ ] [LightningAI: STOP PAYING for Google's Colab with this NEW & FREE Alternative (Works with VSCode)](https://www.youtube.com/watch?v=uSOclWUu4xY&list=LL&index=66&t=230s)
+## Besides
+| channel | Description | Link | Language 
+|-|-|-|-
+| FreeCodeCamp.org | How to using vector database | [Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search](https://www.youtube.com/watch?v=JEBDfGqrAUA&list=LL&index=6) | English |
+| FreeCodeCamp.org | Advance for Python (in 5:55:55 hours) | [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s) | English
+| FreeCodeCamp.org | Advance for Python (in 5:55:55 hours) | [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=LL&index=7&t=77s) | English
+| Dave Ebbelaar | Set up Environment (just easy) |  [How to Set up VS Code for Data Science & AI](https://www.youtube.com/watch?v=zulGMYg0v6U&list=LL&index=15&t=35s&pp=gAQBiAQB) | English |
+| Việt Nguyễn AI | I think this video is good to begin your journey | [Full lộ trình để trở thành 1 AI engineer](https://www.youtube.com/watch?v=BQUkb4oMZ14&list=LL&index=34&t=241s) | Vietnamese |
+| AICodeKing | Know more about tool for AI | [LightningAI: STOP PAYING for Google's Colab with this NEW & FREE Alternative (Works with VSCode)](https://www.youtube.com/watch?v=uSOclWUu4xY&list=LL&index=66&t=230s) | English |
+| HoleTex | Learn more about GitHub | [Github Actions - CI/CD](https://www.youtube.com/watch?v=ZKaDy0mNHGs&list=LL&index=28&t=126s) | Vietnamese |
 
 ## LeetCode, HackerRank
 * [ ] [How to Use LeetCode Effectively](https://www.youtube.com/watch?v=IB_F10twtvY&list=LL&index=68&t=41s)
 * [ ] [How I would learn Leetcode if I could start over](https://www.youtube.com/watch?v=aHZW7TuY_yo&list=LL&index=31&t=38s)
-
-
+  
 ## Interview
 * [ ] [Introducing yourself in English VyVocab](https://www.youtube.com/watch?v=PKNgPHUIYTY&list=LL&index=3&t=4s)
 * [ ] [Interview Questions and Answers! (How to PASS a JOB INTERVIEW!)](https://www.youtube.com/watch?v=KCm6JVtoRdo&list=LL&index=3&t=56s&pp=gAQBiAQB)
@@ -110,6 +113,3 @@ notComplete-> :x:
 * [ ] [Machine Learning Interview Questions and Answers | Machine Learning Interview Preparation | Edureka](https://www.youtube.com/watch?v=t6gOpFLt-Ks&list=LL&index=22&t=39s)
 * [ ] [Software Engineering Job Interview – Full Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E&list=LL&index=23&t=123s)
 * [ ] [How I Got Good at Coding Interviews](https://www.youtube.com/watch?v=SVvr3ZjtjI8&list=LL&index=74&t=107s)
-
-## GitHub
-* [ ] [Github Actions - CI/CD](https://www.youtube.com/watch?v=ZKaDy0mNHGs&list=LL&index=28&t=126s)
