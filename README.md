@@ -104,7 +104,7 @@ notComplete-> :x:
 ## LeetCode, HackerRank
 * [ ] [How to Use LeetCode Effectively](https://www.youtube.com/watch?v=IB_F10twtvY&list=LL&index=68&t=41s)
 * [ ] [How I would learn Leetcode if I could start over](https://www.youtube.com/watch?v=aHZW7TuY_yo&list=LL&index=31&t=38s)
-  
+* [ ] Practice on [Leetcode.com](https://leetcode.com/problemset/)
 ## Interview
 * [ ] [Introducing yourself in English VyVocab](https://www.youtube.com/watch?v=PKNgPHUIYTY&list=LL&index=3&t=4s)
 * [ ] [Interview Questions and Answers! (How to PASS a JOB INTERVIEW!)](https://www.youtube.com/watch?v=KCm6JVtoRdo&list=LL&index=3&t=56s&pp=gAQBiAQB)
