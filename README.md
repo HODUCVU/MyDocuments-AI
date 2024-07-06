@@ -1,5 +1,9 @@
 # AI Letures
+
 <!--
+Embedded colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/<your_notebook_url>)
+
 ##  English (of course): Conversation, Interview, TOEIC 
 | Year | Link |  Category  |Status
 |---|---|---|---
