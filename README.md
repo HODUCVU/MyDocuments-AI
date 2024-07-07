@@ -33,14 +33,14 @@ notComplete-> :x:
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
-| Channel |  Description               | Link                                 | Language          |  Status
-|---------|----------------------------|--------------------------------------|-------------------|------------
-| FreeCodeCamp.org | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English |  ⏳ |
-| AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) | English |:white_check_mark: |
-| AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | English  |  :x: |
-| Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |  English  |  :x: |
-| Pytorch.org | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) | English | 🫰 |
-| Pytorch.org | PyTorch API | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#) | English | 🫰 |
+| Channel |  Description               | Link   | Output                              | Language          |  Status 
+|---------|----------------------------|--------------------------------------|-------------------|------------|-
+| FreeCodeCamp.org | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | https://github.com/HODUCVU/pytorch-deep-learning  |English |  ⏳
+| AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) |   |English |:white_check_mark: |
+| AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) |   |  English  |  :x: |
+| Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1)  |    |  English  |  :x: |
+| Pytorch.org | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)  |   | English | 🫰 |
+| Pytorch.org | PyTorch API | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#)  |   | English | 🫰 |
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
