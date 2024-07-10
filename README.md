@@ -31,6 +31,8 @@ notComplete-> :x:
 | [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
 | [R](#r "Goto R")                    |   | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
+| [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :x: |
+
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
 | Channel |  Description               | Link                                | Language          |  Status 
@@ -94,6 +96,16 @@ notComplete-> :x:
 | Channel | Description | Link | Language | Status
 |-|-|-|-|-
 | codebasics | Serial Lession | [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | English | :x: |
+
+### Python APIs | Backend
+| Channel | Description | Link | Language | Status
+|-|-|-|-|-
+| FreeCodeCamp | 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | :x: |
+| FreeCodeCamp | 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
+| FreeCodeCamp | 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
+| FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
+
+
 
 ## Besides
 | channel | Description | Link | Language 
