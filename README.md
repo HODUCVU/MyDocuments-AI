@@ -60,6 +60,7 @@ notComplete-> :x:
 ### Pandas 
 | Channel |  Description               | Link                                           | Language | Status 
 |----------|-----------------|------------------------------------------------|------------|------|
+| FreeCodeCamp | Data analysis ~ 10 hours | [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI&list=LL&index=11) | English | :x: |
 | FreeCodeCamp.org | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
 | FreeCodeCamp.org | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
 
@@ -98,13 +99,14 @@ notComplete-> :x:
 | codebasics | Serial Lession | [Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) | English | :x: |
 
 ### Python APIs | Backend
-| Channel | Description | Link | Language | Status
-|-|-|-|-|-
-| FreeCodeCamp | 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | :x: |
-| FreeCodeCamp | 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
-| FreeCodeCamp | 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
+| Channel | Description | Link | Language | Status |
+|---------|-------------|------|----------|--------|
+| FreeCodeCamp | Learn through project ~ 10 hours | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s) | English | :star: |
+| FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | :x: |
+| FreeCodeCamp | Learn Django ~ 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
+| FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
+| Tech With Tim | Connect to front-end (React) ~ 2.22 hours | [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://www.youtube.com/watch?v=c-QsfbznSXI&list=LL&index=6) | English | :x: |
 | FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
-
 
 
 ## Besides
