@@ -26,13 +26,14 @@ notComplete-> :x:
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | ⏳ | 
 | [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
 | [Pandas](#pandas "Goto Pandas")     |   | :star: | 
+| [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
+| [Python Pillow](#python-pillow)     |   | :x: |
 | [Docker](#docker "Goto Docker")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
-| [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
 | [R](#r "Goto R")                    |   | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :x: |
-| Database |   |  :x: |
+| [Database]() |   |  :x: |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
@@ -65,6 +66,17 @@ notComplete-> :x:
 | FreeCodeCamp.org | 5 hours | [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0&list=LL&index=43)| English | :x: |
 | FreeCodeCamp.org | 4:30 hours | [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=45&t=226s) | English | :x: |
 
+
+### OpenCV
+| Channel |  Description               | Link                                           | Language | Status 
+|----------|-----------------|------------------------------------------------|------------|------|
+| Computer vision engineer | 3:10 hours | [OpenCV tutorial for beginners \| FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)| English | :x: |
+
+### Python Pillow
+| Channel |  Description               | Link                                           | Language | Status 
+|----------|---------------------------|------------------------------------------------|------------|------|
+| pillow.readthedocs.io | Pillow documentation | [All of framework Pillow in here](https://pillow.readthedocs.io/en/stable/)  | English | :x: |
+
 ### Docker
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|---------|---------|
@@ -78,10 +90,6 @@ notComplete-> :x:
 | Code In a Jiffy | 4:30 hours | [Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python](https://www.youtube.com/watch?v=neBZ6huolkg&list=LL&index=41&t=6901s) | English | [HODUCVU/Football-Analysis-with-YOLO](https://github.com/HODUCVU/Football-Analysis-with-YOLO) |:white_check_mark: |
 | Code In a Jiffy | 4:41 hours | [Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction](https://www.youtube.com/watch?v=L23oIHZE14w&list=LL&index=38&t=111s) | English | | :x: |
 
-### OpenCV
-| Channel |  Description               | Link                                           | Language | Status 
-|----------|-----------------|------------------------------------------------|------------|------|
-| Computer vision engineer | 3:10 hours | [OpenCV tutorial for beginners \| FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)| English | :x: |
 
 <!--
 * [ ] [OpenCV tutorial for beginners | FULL COURSE in 3 hours with Python](https://www.youtube.com/watch?v=eDIj5LuIL4A&list=LL&index=1&t=94s)
