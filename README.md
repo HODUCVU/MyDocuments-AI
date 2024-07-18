@@ -32,6 +32,7 @@ notComplete-> :x:
 | [R](#r "Goto R")                    |   | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :x: |
+| Database | :x: |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
