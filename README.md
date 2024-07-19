@@ -1,6 +1,8 @@
 # AI Letures
 
 <!--
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 Embedded colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/<your_notebook_url>)
 
@@ -26,14 +28,14 @@ notComplete-> :x:
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | ⏳ | 
 | [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
 | [Pandas](#pandas "Goto Pandas")     |   | :star: | 
-| [OpenCV](#opencv "Goto OpenCV")     |   | :x: | 
+| [OpenCV](#opencv "Goto OpenCV")     |   | :+1: | 
 | [Python Pillow](#python-pillow)     |   | :x: |
 | [Docker](#docker "Goto Docker")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
 | [R](#r "Goto R")                    |   | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
 | [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :x: |
-| [Database]() |   |  :x: |
+| [Database](#database) |   |  :x: |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
@@ -82,7 +84,7 @@ notComplete-> :x:
 |----------|-----------------|------------------------------------------------|---------|---------|
 | DevOps Directive | 4:44 hours | [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=2886s) | English | :x: |
 | Mì AI | 1 hour | [Tìm hiểu các thao tác cơ bản với Docker - Mì AI](https://www.youtube.com/watch?v=B5wf8p1oezA&list=LL&index=1&t=2s) | Vietnamese |:x: |
-| FullstacKAGE | 16 min | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x: |
+| FullstacKAGE | 16 min | [Hướng dẫn sử dụng Docker Compose (Dev/Test sử dụng Docker)](https://www.youtube.com/watch?v=dmn8oN4_zq4&list=LL&index=1&t=23s) | Vietnamese | :x:|
 
 ### YOLO
 | Channel |  Description               | Link                                 | Language          | Project |Status
@@ -110,13 +112,20 @@ notComplete-> :x:
 ### Python APIs | Backend
 | Channel | Description | Link | Language | Status |
 |---------|-------------|------|----------|--------|
-| FreeCodeCamp | Learn through project ~ 10 hours | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s) | English | :star: |
-| FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | :x: |
+| FreeCodeCamp | Learn through project ~ 10 hours | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s) | English | :+1: |
+| FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | 🤯 |
 | FreeCodeCamp | Learn Django ~ 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
 | FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
 | Tech With Tim | Connect to front-end (React) ~ 2.22 hours | [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://www.youtube.com/watch?v=c-QsfbznSXI&list=LL&index=6) | English | :x: |
 | FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
 
+### Database
+| Channel | Description | Link | Language | Status |
+|---------|-------------|------|----------|--------|
+| FreeCodeCamp | ~ 20 hours \| Begin with this (All of data analysis for beginner (include python pandas...) | [Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)](https://www.youtube.com/watch?v=PSNXoAs2FtQ&list=LL&index=4&t=21s) | English | :shipit: |
+| FreeCodeCamp | ~ 25 hours (include 2 parts) \| Learn detail about various database tools| [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE&list=LL&index=2) | English | :+1: |
+| FreeCodeCamp | ~ 11 hours \| I think this course research so detail about SQL (if you just want to focus only SQL, well, begin with this course) | [Intuitive SQL For Data Analytics - Tutorial](https://www.youtube.com/watch?v=mXW7JHJM34k&list=LL&index=5) | English | 🔰 |
+| FreeCodeCamp | ~ 1 hour \| The ways to deploy a web or app | [How to Deploy a Web App Using Multiple Methods (Azure, Render, MongoDB Atlas, Koyeb, and more )](https://www.youtube.com/watch?v=vROMXzOWqec&list=LL&index=1) | English | 🤯 |
 
 ## Besides
 | channel | Description | Link | Language 
