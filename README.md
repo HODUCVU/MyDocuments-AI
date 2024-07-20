@@ -29,13 +29,13 @@ notComplete-> :x:
 | [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
 | [Pandas](#pandas "Goto Pandas")     |   | :star: | 
 | [OpenCV](#opencv "Goto OpenCV")     |   | :+1: | 
-| [Python Pillow](#python-pillow)     |   | :x: |
+| [Python Pillow](#python-pillow)     |   | :+1: |
 | [Docker](#docker "Goto Docker")     |   | :x: | 
 | [YOLO](#yolo "Goto YOLO")           |   | :x: |
 | [R](#r "Goto R")                    |   | :x: | 
 | [Tensorflor 2.0 Keras](#tensorflor-20-keras "Goto Tensorflor 2.0 Keras") |   | :x: |
-| [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :x: |
-| [Database](#database) |   |  :x: |
+| [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :+1: |
+| [Database](#database) |   |  :+1: |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
 ### Pytorch ###
@@ -43,10 +43,10 @@ notComplete-> :x:
 |---------|----------------------------|-------------------------------------|-------------------|-
 | FreeCodeCamp.org | **25 hours** | [*PyTorch for Deep Learning & Machine Learning – Full Course*](https://www.youtube.com/watch?v=V_xro1bcAuA&list=LL&index=13&t=92s)  | English | ✅ |
 | AssemblyAI | 50 min | [PyTorch Crash Course - Getting Started with Deep Learning](https://www.youtube.com/watch?v=OIenNRt2bjg&list=LL&index=69&t=4s) |English |:white_check_mark: |
-| AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) |  English  |  :x: |
-| Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1) |  English  |  :x: |
-| Pytorch.org | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) | English | 🫰 |
-| Pytorch.org | PyTorch API | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#) | English | 🫰 |
+| Pytorch.org | documentations | [Tutorial from pytorch.org](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html) | English | :+1: |
+| Pytorch.org | PyTorch API | [Research Python API on PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#) | English | :+1: |
+| AssemblyAI | Serial lession | [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) |  English  |  🫰 |
+| Patrick Loeber |  4:35 hours |  [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&list=LL&index=1) |  English  |  🫰 |
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status
 |----------|-----------------|------------------------------------------------|-----|---------|
@@ -58,7 +58,7 @@ notComplete-> :x:
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
 |----------|-----------------|------------------------------------------------|-----------|-----------
-| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  |:x: |
+| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  | ⏭️ |
 | FreeCodeCamp.org | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
 ### Pandas 
