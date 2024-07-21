@@ -114,10 +114,13 @@ notComplete-> :x:
 |---------|-------------|------|----------|--------|
 | FreeCodeCamp | Learn through project ~ 10 hours | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s) | English | :+1: |
 | FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | 🤯 |
+| FreeCodeCamp \| Harvard CS50’s | Basic to Advance and How to connect all together ~ 14 hours (From Harvard university) | [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA&list=LL&index=2&t=0s) | English | :+1: How exciting hhaaa. |
 | FreeCodeCamp | Learn Django ~ 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
 | FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
 | Tech With Tim | Connect to front-end (React) ~ 2.22 hours | [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://www.youtube.com/watch?v=c-QsfbznSXI&list=LL&index=6) | English | :x: |
 | FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
+
+
 
 ### Database
 | Channel | Description | Link | Language | Status |
