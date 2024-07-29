@@ -53,11 +53,11 @@ notComplete-> :x:
 ### Algorithms and Data Structures in Python
 | Channel |  Description               | Link                                 | Language          | Status  |
 |----------|-----------------|------------------------------------------------|-------------------|---------|
-| [Codecademy](https://www.codecademy.com/learn) | Free Course online | [Learn Data Structures and Algorithms with Python](https://www.codecademy.com/courses/learn-data-structures-and-algorithms-with-python/articles/nodes-data-structures-and-algorithms) | English | ⏳ |
 | FreeCodeCamp.org | 12:30 hours | [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&list=LL&index=80) |English | ⏳ |
 | FreeCodeCamp.org | 2 hours | [Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q&list=LL&index=63) | English | :x: |
 | FreeCodeCamp.org | 5:22 hours | [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=LL&index=9&t=4878s) | English |:x: |
 
+<!--| [Codecademy](https://www.codecademy.com/learn) | Free Course online | [Learn Data Structures and Algorithms with Python](https://www.codecademy.com/courses/learn-data-structures-and-algorithms-with-python/articles/nodes-data-structures-and-algorithms) | English | | -->
 
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
@@ -123,7 +123,7 @@ notComplete-> :x:
 | FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
 | Tech With Tim | Connect to front-end (React) ~ 2.22 hours | [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://www.youtube.com/watch?v=c-QsfbznSXI&list=LL&index=6) | English | :x: |
 | FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
-| Codecademy | Free Course online | [django-introduction-to-the-web](https://www.codecademy.com/paths/build-python-web-apps-with-django/tracks/django-introduction-to-the-web/modules/django-introduction-to-the-web/articles/django-exploring-html-and-css) | English | :+1: |
+
 
 
 ### Database
