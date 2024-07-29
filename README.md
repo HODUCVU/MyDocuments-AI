@@ -123,7 +123,7 @@ notComplete-> :x:
 | FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
 | Tech With Tim | Connect to front-end (React) ~ 2.22 hours | [Django & React Web App Tutorial - Authentication, Databases, Deployment & More...](https://www.youtube.com/watch?v=c-QsfbznSXI&list=LL&index=6) | English | :x: |
 | FreeCodeCamp | ≈ 4 hours | [API integration Course – Modern Python with FastAPI](https://youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=4) | English | :x: |
-
+| Codecademy | Free Course online | [django-introduction-to-the-web](https://www.codecademy.com/paths/build-python-web-apps-with-django/tracks/django-introduction-to-the-web/modules/django-introduction-to-the-web/articles/django-exploring-html-and-css) | English | :+1: |
 
 
 ### Database
