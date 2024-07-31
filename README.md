@@ -24,9 +24,9 @@ notComplete-> :x:
 ## Table of Contents
 | AI Knowledge                 | My Notion Site | Status                                           
 |----------------------|---------------|-------|
-| [PyTorch](#pytorch "Goto Pytorch")  | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | ⏳ | 
-| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | ⏳ | 
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭️ |
+| [PyTorch](#pytorch "Goto Pytorch")  | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | 🚀 | 
+| [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | 🚀 | 
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭🔧 |
 | [Pandas](#pandas "Goto Pandas")     |   | :star: | 
 | [OpenCV](#opencv "Goto OpenCV")     |   | :+1: | 
 | [Python Pillow](#python-pillow)     |   | :+1: |
@@ -62,7 +62,7 @@ notComplete-> :x:
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
 |----------|-----------------|------------------------------------------------|-----------|-----------
-| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  | ⏭️ |
+| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  | ⏳ |
 | FreeCodeCamp.org | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
 ### Pandas 
