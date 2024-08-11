@@ -6,12 +6,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 Embedded colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/<your_notebook_url>)
 
-##  English (of course): Conversation, Interview, TOEIC 
-| Year | Link |  Category  |Status
-|---|---|---|---
-| 2023 | [TOEIC Testing set](https://drive.google.com/drive/folders/1WF1GopSbIyuqiaKFuHfrZnCqY-ZlEzJL?usp=sharing) | Listening and Reading | :hourglass: |
-| 2022 | [ABC TOEIC Listening Comprehension](https://drive.google.com/drive/folders/16gdmeGEjDDOFRp1HMAf00gCnnM4FSX6j?usp=sharing) | Listening Book| :white_check_mark: |
-| 2022 | [ABC TOEIC Reading Comprehension](https://drive.google.com/drive/folders/1TLQQN6qGvfyk7lUX_Ezen-sVm7_LR8kE?usp=sharing) | Reading Book| :hourglass: |
 -->
 <!-- icon
 start->  :hourglass:
@@ -26,7 +20,7 @@ notComplete-> :x:
 |----------------------|---------------|-------|
 | [PyTorch](#pytorch "Goto Pytorch")  | [Notebook for PyTorch](https://chain-spade-1dd.notion.site/Pytorch-a41d08358b2f4934b43a329a4bafd941) | 🚀 | 
 | [Algorithms and Data Structures ](#algorithms-and-data-structures-in-python "Goto Algorithms and Data Structures")  | [Notebook for this title](https://chain-spade-1dd.notion.site/Data-Structures-and-Algorithms-in-Python-f6f25ac8483d4eb6a84d58a16b93e769) | 🚀 | 
-| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | ⏭🔧 |
+| [Sciki-learn](#sciki-learn "Goto Sciki-learn")  |   | 🚀 |
 | [Pandas](#pandas "Goto Pandas")     |   | :star: | 
 | [OpenCV](#opencv "Goto OpenCV")     |   | :+1: | 
 | [Python Pillow](#python-pillow)     |   | :+1: |
@@ -37,7 +31,7 @@ notComplete-> :x:
 
 | Web-backend                 | My Projects | Status                                           
 |----------------------|---------------|-------|
-| [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | :+1: |
+| [Python APIs \| Backend](#python-apis--backend "Goto Python APIs") |   | ⏳ |
 | [Database](#database) |   |  :+1: |
 
 <!-- ##  OpenCV, Data structures and Algorithms (python), R, Pytorch, Vector Database, GitHub Actions, Pandas, Generative AI -->
@@ -62,7 +56,7 @@ notComplete-> :x:
 ### Sciki-learn
 | Channel |  Description               | Link                                 | Language           |  Status
 |----------|-----------------|------------------------------------------------|-----------|-----------
-| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  | ⏳ |
+| FreeCodeCamp.org | 18 hours - 7 months ago | [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) | English  | ✅ |
 | FreeCodeCamp.org | 2 hours - 3 years ago | [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&list=LL&index=3) | English | :x: |
 
 ### Pandas 
@@ -117,7 +111,7 @@ notComplete-> :x:
 | Channel | Description | Link | Language | Status |
 |---------|-------------|------|----------|--------|
 | FreeCodeCamp | Learn through project ~ 10 hours | [Learn Python Backend Development by Building 3 Projects \[Full Course\]](https://www.youtube.com/watch?v=ftKiHCDVwfA&list=LL&index=1&t=263s) | English | :+1: |
-| FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | 🤯 |
+| FreeCodeCamp | Basic ~ 19 hours | [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA&list=LL&index=1&t=2s) | English | ⏳ |
 | FreeCodeCamp \| Harvard CS50’s | Basic to Advance and How to connect all together ~ 14 hours (From Harvard university) | [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://www.youtube.com/watch?v=vzGllw18DkA&list=LL&index=2&t=0s) | English | :+1: How exciting hhaaa. |
 | FreeCodeCamp | Learn Django ~ 18 hours and 30 minutes | [Django For Everybody - Full Python University Course)](https://www.youtube.com/watch?v=o0XbHvKxw7Y&list=LL&index=3) | English | :x: |
 | FreeCodeCamp | Learn Django ~ 10 hours | [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=LL&index=2) | English | :x: |
